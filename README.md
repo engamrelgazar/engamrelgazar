@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr ELgazar</h1>
 <h3 align="center">A passionate Flutter Developer from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn-gnapb.nitrocdn.com/rVKsFrUUJpBqwSXDQLTtMASMDgzFisXl/assets/images/optimized/rev-b3dae67/d274cmdd0goq94.cloudfront.net/wp-content/uploads/2024/04/Flutter-App-Development_CTA1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engamrelgazar&label=Profile%20views&color=0e75b6&style=flat" alt="engamrelgazar" /> </p>
 
